@@ -1,2 +1,1 @@
-Full-stack LLM Ops to help companies build scalable, reliable, and cost-efficient AI products.
-
+AI-native revenue management platform for enterprise compananies selling with usage based or hybrid pricing models. 
