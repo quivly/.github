@@ -1,1 +1,1 @@
-AI-native revenue management platform for enterprise compananies selling with usage based or hybrid pricing models. 
+AI workforce for post-sales teams. Agents that put account management and growth on autopilot.
